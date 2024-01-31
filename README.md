@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="Resources/Images/rs_git_logo.png">
-</p>
+![RESTFulSense.Servers](https://raw.githubusercontent.com/The-Standard-Organization/STX.REST.RESTFulSense.Servers/main/Resources/Images/rs_git_logo.png)
 
 # STX.REST.RESTFulSense.Servers
 
